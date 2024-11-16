@@ -113,6 +113,8 @@ const finalCopy = computed(() => {
     gap: 20px;
     border-radius: 5px;
     margin-bottom: 10px;
+    overflow: auto;
+    
   }
   h2{
     text-align: center;
